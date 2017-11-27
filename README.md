@@ -1,7 +1,7 @@
 # duoduopay
 多多付（移动端+PC端）
 
-![duoduopay](iages/vipduoduo.jpg)
+![duoduopay](images/vipduoduo.jpg)
 
 ```js
 多多付钱包是一个为年轻人倾力打造的移动端的购物信用消费平台，
